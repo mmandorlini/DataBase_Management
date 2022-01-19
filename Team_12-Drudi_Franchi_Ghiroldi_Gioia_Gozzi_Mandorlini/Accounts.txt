@@ -1,0 +1,11 @@
+Specialized practitioner credentials
+email: gastone.pandolfi@email.com
+password: 1234
+
+Patient credentials
+email: gianluca.roffia@email.com
+password: 1234
+
+Technical Admin credentials
+email: piero.pelù@email.com
+password: 1234

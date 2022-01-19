@@ -1,5 +1,5 @@
 # Medical Informatics Class Project
-#### Aim of the Work
+### Aim of the Work
 The aim of the system, structured as a database, is to collect information about the pathway of the
 patients with heart failure and to keep track of the physiological changes for the parameters evaluated
 at-home and in-hospital.
